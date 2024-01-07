@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: see-physical-idea
+package: smiletondi/see-physical-idea
